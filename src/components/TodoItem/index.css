@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.lis {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.p {
+  font-family: Roboto;
+  color: #000000;
+}
+
+.btn {
+  border-width: solid;
+  background-color: transparent;
+  border-radius: 5px;
+  border-color: #ff8542;
+  padding: 5px;
+  color: #ff8542;
+  cursor: pointer;
+  outline: none;
+}
